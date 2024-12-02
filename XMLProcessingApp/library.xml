@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<library>
+	<book id="1" author="Author 1" title="Title 1" genre="Genre 1" year="2000" />
+	<book id="2" author="Author 2" title="Title 2" genre="Genre 2" year="2005" />
+</library>
